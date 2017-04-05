@@ -1,11 +1,22 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorodish/countries_group_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gorodish/countries_group_project/issues"
+  },
+  "homepage": "https://github.com/gorodish/countries_group_project#readme",
+  "description": ""
 }
